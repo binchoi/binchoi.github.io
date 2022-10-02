@@ -2,10 +2,12 @@
 layout: post
 title: Graduated from American School of Doha, Qatar.
 date: 2019-05-10 18:00:00-0400
-inline: false
+inline: true # false
 ---
 
-Childhood in a (luxurious) sandbox.
+Graduated from American School of Doha, Qatar.
+
+<!-- Childhood in a (luxurious) sandbox.
 
 ***
 
@@ -14,4 +16,4 @@ I was born and raised in South Korea until the age of 6. In 2006, my family move
 > Some inspiring quote about growing up in the Arabian Penninsula as a Korean boy.
 > —Anais Nin
 
-TBD
+TBD -->
