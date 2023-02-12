@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /teaching/
 title: teaching
@@ -12,4 +12,4 @@ nav_order: 5
 <!-- Organize your courses by years, topics, or universities, however you like! -->
 
 
-I am the founder and director of `PELA_PROJECT` — an NGO that connects aspiring programmers in Afghanistan to experienced software engineers and data scientists from around the world.
+I am the founder and director of `PELA_PROJECT` — an NGO that connects aspiring programmers in Afghanistan to experienced software engineers and data scientists from around the world. -->
