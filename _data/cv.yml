@@ -48,7 +48,7 @@
       institution: Yale-NUS College, Singapore
       year: 2020 - 2021
       description:
-        - Developed a computational tool that employs an Expectation-Maximization algorithm to better filter Next-Generation Sequencing data from Patient-Derived Models (PDM) and Patient-Derived Xenografts (PDX). Python, Shell Scripting, R.
+        - Developed a computational tool that filters contaminated Next-Generation Sequencing data from Patient-Derived Xenografts (PDX)
 
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
