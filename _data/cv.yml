@@ -26,9 +26,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Fellow & Software Engineer
+      institution: Yale School of Medicine, New Haven, USA
+      year: 2024 - TBD
+      description:
+        - Designed and implemented the data processing pipeline with Apache Airflow and developed novel topic modeling algorithm to aid semantic map navigation
+        - Co-led both BE/FE development for the launch
+
     - title: Software Engineer (Server)
       institution: Buzzvil, Seoul, South Korea
-      year: 2022 - 2022
+      year: 2022 - 2024
       description:
         - Design, develop, and maintain servers written in Go and Python
         # - Kakao TF — Implemented the server-side components of Kakaopay's Pointwall (OAuth, Login-flow, bridge page, daily reward, welcome reward...)
@@ -66,6 +73,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Yale College Dean's Research Fellowship
     - year: 2019
       items: 
         - Yale-NUS Global Leader Scholarship (full-ride)
