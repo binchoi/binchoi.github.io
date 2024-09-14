@@ -4,14 +4,14 @@ title: about
 permalink: /
 subtitle: >
     <p style="margin: 0;padding: 0;">Computer Science at <a href='https://www.yale-nus.edu.sg/'>Yale-NUS College</a></p>
-    <p>Research Fellow at <a href='https://medicine.yale.edu/'>Yale School of Medicine</a></p>
+    <p>Software Engineer at <a href='https://medicine.yale.edu/'>Yale School of Medicine</a></p>
 
 profile:
   align: right
   image: prof_pic_bin.jpg
   image_circular: false # crops the image to make it circular
   address: >  
-    <p>100 College, New Haven</p>
+    <p>108th St, New York, NY</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
