@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 display_categories: [work, personal]
 horizontal: false
+redirect_to: "https://binchoi.notion.site/Bin-Choi-ebc1c4e6c2a7441fa2fd43eb8518eaff"
 ---
 
 <!-- pages/projects.md -->

@@ -6,6 +6,15 @@
   {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
   {%- endif -%}
+
+<!-- if page.redirect_to exists (i.e., is a string), redirect to page.redirect_to -->
+  {%- if page.redirect_to -%}
+
+  <script type="text/javascript">
+      window.location.replace("{{ page.redirect_to }}");
+  </script>
+  {%- endif -%}
+
   {% include head.html %}
   </head>
 
